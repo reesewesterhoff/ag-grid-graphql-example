@@ -1,5 +1,7 @@
 import {Grid} from 'ag-grid-community';
 import 'ag-grid-enterprise';
+import {LicenseManager} from 'ag-grid-enterprise';
+LicenseManager.setLicenseKey('Evaluation_License_Not_For_Production_Valid_Until24_February_2019__MTU1MDk2NjQwMDAwMA==2a13f551f10460bf5d031412d8f94167');
 
 import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-balham.css";
